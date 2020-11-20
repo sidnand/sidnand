@@ -1,3 +1,5 @@
+<img src = "./GitHub About Me.png" />
+
 <a href="https://www.linkedin.com/in/siddharth-nand/" target="_blank">![](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <img src="https://img.shields.io/badge/thedevguy1%20-%23FFFC00.svg?&style=for-the-badge&logo=Snapchat&logoColor=white"/>
