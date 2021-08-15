@@ -4,14 +4,14 @@
 
 ### Bit About Myself
 
-- I'm currently a first year student at UBC 🎓
+- I am a Science at The University of British Columbia planning to major in Statistics 🎓
 - I've been coding since I was 14; first learned JavaScript 💻
-- My greatest accomplishment as of now is a Chrome Extension to syncs Netflix videos: [Check it Out](https://sidnand.github.io/Sinc-Website/)
 
 ### Languages & Tools I Enjoy
 
 ![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
 
 ### Some Stats
