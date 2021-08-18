@@ -2,7 +2,7 @@
 
 ### Bit About Myself
 
-- I am a Science at The University of British Columbia planning to major in Statistics 🎓
+- I am a Science student at The University of British Columbia planning to major in Statistics 🎓
 - I've been coding since I was 14; first learned JavaScript 💻
 
 ### Languages & Tools I Enjoy
