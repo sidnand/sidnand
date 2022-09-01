@@ -1,2 +1,2 @@
 # Hi, I am Siddharth Nand
-> passionate learner
+> A passionate learner
