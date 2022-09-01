@@ -1,3 +1,2 @@
-![](./header.png)
-
-### A Passionate Learner
+# Hi, I am Siddharth Nand
+> passionate learner
