@@ -1,3 +1,1 @@
-# Hi 👋🏾, I am Siddharth Nand
-
-A passionate learner
+# Hi 👋🏾, I am Siddharth Nand. I am a passionate learner.
