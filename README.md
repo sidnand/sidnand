@@ -10,14 +10,6 @@
 
 <p align="left">I am an undergraduate mathematic student at The University of British Columbia, Canada. I am currently doing undergraduate research work in finance and data science.</p>
 
-<br clear="both">
-
-<p align="left">Connect with me: <a href="https://www.linkedin.com/in/siddharth-nand/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a></p>
-
-###
-
 <h2 align="left">Languages I Enjoy</h2>
 
 ###
