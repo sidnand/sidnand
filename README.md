@@ -8,8 +8,6 @@
 
 ###
 
-<--<p align="left">I am an undergraduate mathematic student at The University of British Columbia, Canada.</p>-->
-
 <h2 align="left">Languages I Enjoy</h2>
 
 ###
