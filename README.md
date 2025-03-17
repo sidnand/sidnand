@@ -19,13 +19,3 @@
 </div>
 
 ###
-
-<h2 align="left">My Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/sidnand?theme=nord&ext=heatmap" height="300" alt="streak graph"  />
-</div>
-
-###
